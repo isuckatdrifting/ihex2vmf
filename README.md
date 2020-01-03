@@ -7,4 +7,4 @@ Example Usage -- Intel Hex to VMF
 If you found that this repo is re-inventing a wheel, please ping me by posting an issue.
 
 ## Reference
-- [Wikipedia/Intel HEX format] https://en.wikipedia.org/wiki/Intel_HEX
+- [Wikipedia/Intel HEX format](https://en.wikipedia.org/wiki/Intel_HEX)
